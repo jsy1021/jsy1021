@@ -5,16 +5,17 @@
 </p>
  
 <!-- badge -->
-<p align='center'>
-  <!-- gmail -->
-  📧Contact
-  <img src="https://img.shields.io/badge/jangsuyeong923@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  <!-- Tistory -->
-  🔎About me
-  <a href="https://jsy1021.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-</p>
+<div align="center">
+  <strong>📧 Contact</strong><br>
+  <img src="https://img.shields.io/badge/jangsuyeong923@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/><br><br>
+
+  <strong>🔎 About me</strong><br>
+  <a href="https://jsy1021.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</div>
 <p align="center">
-  안녕하세요, 문제를 해결하는 것을 즐기는 <strong>신입 개발자 장수영</strong> 입니다.
+  😎안녕하세요, 문제를 해결하는 것을 즐기는 <strong>신입 개발자 장수영</strong> 입니다.😎
 </p>
 
 
