@@ -38,9 +38,13 @@
 <!-- 사용한 언어 순위 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsy1021&layout=compact&theme=algolia)
 
+## ⚙️ Algorithm
 <!-- solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsuyeong923)](https://solved.ac/jangsuyeong923)
 
+## 📜 Certificates
+* 2024.09.20 **SQL 개발자(SQLD) - 한국데이터산업진흥원**
+* 2024.06.18 **정보처리기사 - 한국산업인력공단**
 <!--
 **jsy1021/jsy1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
